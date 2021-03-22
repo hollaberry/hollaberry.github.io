@@ -1,0 +1,80 @@
+{
+    "students": [
+        {
+            "id": "788758",
+            "name": "Tayo",
+            "age": 23,
+            "dpartment": "Engineering",
+            "isRegister": false,
+            "courses": [
+                {
+                 "name": "Machine",
+                 "code": "MCH101"
+                },{
+                  "name": "Power",
+                  "code": "PO101"
+                }
+            ]
+        },{
+            "id": "788758",
+            "name": "Tayo",
+            "age": 23,
+            "dpartment": "Engineering",
+            "isRegister": false,
+            "courses": [
+                {
+                 "name": "Machine",
+                 "code": "MCH101"
+                },{
+                  "name": "Power",
+                  "code": "PO101"
+                }
+            ]
+        },{
+            "id": "788758",
+            "name": "Tayo",
+            "age": 23,
+            "dpartment": "Engineering",
+            "isRegister": false,
+            "courses": [
+                {
+                 "name": "Machine",
+                 "code": "MCH101"
+                },{
+                  "name": "Power",
+                  "code": "PO101"
+                }
+            ]
+        },{
+            "id": "788758",
+            "name": "Tayo",
+            "age": 23,
+            "dpartment": "Engineering",
+            "isRegister": false,
+            "courses": [
+                {
+                 "name": "Machine",
+                 "code": "MCH101"
+                },{
+                  "name": "Power",
+                  "code": "PO101"
+                }
+            ]
+        },{
+            "id": "788758",
+            "name": "Tayo",
+            "age": 23,
+            "dpartment": "Engineering",
+            "isRegister": false,
+            "courses": [
+                {
+                 "name": "Machine",
+                 "code": "MCH101"
+                },{
+                  "name": "Power",
+                  "code": "PO101"
+                }
+            ]
+        }
+    ]
+}
